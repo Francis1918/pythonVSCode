@@ -1,0 +1,32 @@
+Ejercicio 1 
+	Imprimir el hola mundo
+Ejercicio 2 
+	Creación e variables, imprimir el dato de la variable, líneas y bloques de comentarios
+Ejercicio 3 
+	Crear variables de tipo constante, variables de tipo contante con dependencia, 
+	definir variables en una sola linea iguales o diferentes
+Ejercicio 4
+	Ingreso de datos por consola, impresión de datos, formato de datos ingresados
+Ejercicio 5
+	Operadores Aritméticos, Comparativos
+Ejercicio 6
+	Condicionales, if, elif, else
+Ejercicio 7
+	Uso de Match, compuesto con sentencias if, else, operadores logicos, aritmeticos
+	Match es un equivalente al Switch case
+Ejercicio 8
+	Uso del bucle for each el cual sirve para recorrer en arreglos y sus tipos 
+	haciendo ejercicio del calculo del promedio
+	tambien uso del for similar al lenguaje C
+Ejercicio 9
+	Uso de la funcion While con 3 ejemplos sencillos de aplicacion
+Ejercicio 10
+	uso de cadenas, separacion de caracteres, convertir a mayus y minus, etc
+Ejercicio 11
+	Uso de tupla para la busqueda de las palabras y manejo de tuplas
+Ejercicio 12 
+	Listas en Python uso Basico
+Ejercicio 13
+	Diccionarios y Diccionarios anidados en Python
+Ejercicio 14
+	uso de funciones en Python	
